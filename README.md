@@ -1,6 +1,6 @@
 # MyYoutube-concept учебный проект GLo Academy
-Проект выполнил: Фртем Лиукконне
+Проект выполнил: Фртем Лиукконeн
 ## Используемые технологии
--HTML, 
--CSS, 
+-HTML
+-CSS 
 -https://svgsprit.es/
