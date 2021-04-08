@@ -4,3 +4,4 @@
 - HTML
 - CSS 
 - SVG sprite  https://svgsprit.es/
+- https://fonts.google.com/
