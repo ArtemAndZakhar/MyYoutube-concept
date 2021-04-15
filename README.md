@@ -5,3 +5,4 @@
 - CSS 
 - SVG sprite  https://svgsprit.es/
 - https://fonts.google.com/
+- Swiper  https://swiperjs.com/get-started
